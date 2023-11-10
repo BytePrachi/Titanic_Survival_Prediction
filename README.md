@@ -1,1 +1,1 @@
-# Titanic_Survival_Prediction
+Developed Titanic Survival Prediction model using Machine Learning and used decision trees, logistic regression and 5+ more different models. Analyzed passenger data (age, gender, class) and the primary objective of the model was to predict whether passengers survived or not.
